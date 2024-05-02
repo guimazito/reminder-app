@@ -1,0 +1,14 @@
+C:\Users\Claudio\source\repos\ReminderApp\ReminderApp\bin\Debug\net8.0\ReminderApp.exe
+C:\Users\Claudio\source\repos\ReminderApp\ReminderApp\bin\Debug\net8.0\ReminderApp.deps.json
+C:\Users\Claudio\source\repos\ReminderApp\ReminderApp\bin\Debug\net8.0\ReminderApp.runtimeconfig.json
+C:\Users\Claudio\source\repos\ReminderApp\ReminderApp\bin\Debug\net8.0\ReminderApp.dll
+C:\Users\Claudio\source\repos\ReminderApp\ReminderApp\bin\Debug\net8.0\ReminderApp.pdb
+C:\Users\Claudio\source\repos\ReminderApp\ReminderApp\obj\Debug\net8.0\ReminderApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Claudio\source\repos\ReminderApp\ReminderApp\obj\Debug\net8.0\ReminderApp.AssemblyInfoInputs.cache
+C:\Users\Claudio\source\repos\ReminderApp\ReminderApp\obj\Debug\net8.0\ReminderApp.AssemblyInfo.cs
+C:\Users\Claudio\source\repos\ReminderApp\ReminderApp\obj\Debug\net8.0\ReminderApp.csproj.CoreCompileInputs.cache
+C:\Users\Claudio\source\repos\ReminderApp\ReminderApp\obj\Debug\net8.0\ReminderApp.dll
+C:\Users\Claudio\source\repos\ReminderApp\ReminderApp\obj\Debug\net8.0\refint\ReminderApp.dll
+C:\Users\Claudio\source\repos\ReminderApp\ReminderApp\obj\Debug\net8.0\ReminderApp.pdb
+C:\Users\Claudio\source\repos\ReminderApp\ReminderApp\obj\Debug\net8.0\ReminderApp.genruntimeconfig.cache
+C:\Users\Claudio\source\repos\ReminderApp\ReminderApp\obj\Debug\net8.0\ref\ReminderApp.dll
